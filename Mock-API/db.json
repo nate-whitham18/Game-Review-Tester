@@ -1,0 +1,39 @@
+{
+  "games": [
+    {
+      "id": "1",
+      "title": "Horizon Zero Dawn",
+      "platform": "PS5"
+    },
+    {
+      "id": "2",
+      "title": "God of War",
+      "platform": "PS5"
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "gameId": 1,
+      "rating": 5,
+      "comment": "Awesome game!"
+    },
+    {
+      "id": "2",
+      "gameId": 2,
+      "rating": 4,
+      "comment": "Very good, but short."
+    },
+    {
+      "id": "e3c3",
+      "gameId": 1,
+      "comment": "Missing rating field"
+    },
+    {
+      "id": "c30a",
+      "gameId": 1,
+      "rating": "five stars",
+      "comment": "Rating is a string"
+    }
+  ]
+}
