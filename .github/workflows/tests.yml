@@ -36,7 +36,7 @@ jobs:
 
       - name: Start mock API server
         run: |
-          json-server --watch Mock-API/db.json --port 3000 &
+          json-server --watch Mock-API/db.json --port 3001 &
           sleep 5
 
       - name: Run tests
