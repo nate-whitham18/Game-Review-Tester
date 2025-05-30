@@ -121,4 +121,5 @@ Expand UI tests to include cross-browser testing (BrowserStack/Selenium Grid)
 
 👤 Author
 Nate Whitham
+natewhitham18@gmail.com
 
